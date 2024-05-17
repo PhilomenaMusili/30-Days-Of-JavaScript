@@ -10,7 +10,10 @@ To get started with this challenge, you'll need to clone this repository to your
 
 bash
 Copy code
+
 git clone https://github.com/yourusername/30-days-of-javascript.git
+
+
 Navigate to the project directory:
 
 bash
