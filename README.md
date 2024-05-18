@@ -11,7 +11,8 @@ To get started with this challenge, you'll need to clone this repository to your
 bash
 Copy code
 
-git clone https://github.com/yourusername/30-days-of-javascript.git
+git clone
+ https://github.com/yourusername/30-days-of-javascript.git
 
 
 Navigate to the project directory:
@@ -29,3 +30,5 @@ Some exercises might require you to install additional dependencies. Instruction
 ## Start coding:
 
 Each day's challenge is located in its respective folder (e.g., day01, day02). Follow the instructions in the README file of each folder to complete the challenges.
+
+## Good Luck 
